@@ -25,6 +25,7 @@
     "eject": "react-scripts eject",
     "server": "json-server -p 3002 --watch db.json"
   },
+  "proxy": "http://localhost:3001",
   "browserslist": [
     ">0.2%",
     "not dead",
